@@ -4,7 +4,7 @@ Este projeto implementa um sistema de Geração Aumentada por Recuperação (RAG
 
 ## 📄 Visão Geral
 
-O sistema permite que usuários façam upload de documentos PDF e realizem consultas em linguagem natural. Ele combina técnicas de recuperação de informações com geração de linguagem para fornecer respostas contextuais baseadas no conteúdo dos documentos.([github.com][2])
+O sistema permite que usuários façam upload de documentos PDF e realizem consultas em linguagem natural. Ele combina técnicas de recuperação de informações com geração de linguagem para fornecer respostas contextuais baseadas no conteúdo dos documentos.
 
 ## 📷 Arquitetura do Sistema
 
