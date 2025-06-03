@@ -70,17 +70,3 @@ O sistema permite que usuários façam upload de documentos PDF e realizem consu
    ```
 
 4. Acesse a interface da aplicação através do navegador no endereço fornecido pelo terminal.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
----
-
-Sinta-se à vontade para contribuir com melhorias ou sugestões para este projeto!
-
-[1]: https://github.com/rakeshutekar/RAG-based-PDF-Query-System?utm_source=chatgpt.com "rakeshutekar/RAG-based-PDF-Query-System - GitHub"
-[2]: https://github.com/Vibhuarvind/Content-Engine-RAG-for-PDF?utm_source=chatgpt.com "Vibhuarvind/Content-Engine-RAG-for-PDF - GitHub"
-[3]: https://stackoverflow.com/questions/37826259/how-can-i-use-a-pdf-file-as-the-readme-in-my-github-repo?utm_source=chatgpt.com "How can I use a pdf file as the readme in my github repo?"
-
-[4]: https://www.youtube.com/watch?pp=0gcJCc0AaK0XXGki&v=URgb38XZ8HI&utm_source=chatgpt.com "Build a \"Chat with PDF\" App in Minutes - RAG System with Bolt.new"
