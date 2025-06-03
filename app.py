@@ -47,6 +47,6 @@ def ask(question):
     answer = (chain({"input_documents": context, "question": question}, return_only_outputs=True))['output_text']
     return answer, context
 
-user_question = input("User: ")
+user_question = input("Digite a sua pergunta: ")
 answer = ask(user_question)
 print("Answer: ", answer)
