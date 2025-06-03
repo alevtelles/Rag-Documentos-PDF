@@ -68,5 +68,3 @@ O sistema permite que usuários façam upload de documentos PDF e realizem consu
    ```bash
    python app.py
    ```
-
-4. Acesse a interface da aplicação através do navegador no endereço fornecido pelo terminal.
