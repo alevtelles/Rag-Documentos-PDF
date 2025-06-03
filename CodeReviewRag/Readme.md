@@ -1,10 +1,4 @@
-Claro! Com base no que vi do seu código (`main.py`), o projeto parece ser um sistema de **Revisão de Código com RAG (Retrieval-Augmented Generation)** usando LangChain, Git e análise de arquivos Python.
 
-Aqui está um `README.md` inicial e bem estruturado para o seu projeto:
-
----
-
-````markdown
 # 🧠 Code Review RAG
 
 Um sistema de revisão automática de código baseado em **RAG (Retrieval-Augmented Generation)** com suporte à linguagem natural, usando LangChain, GitPython e IA.
